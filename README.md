@@ -113,7 +113,7 @@ My research and engineering interests include:
 # Featured Projects
 
 <details>
-<summary><b>Predicted Prophylaxis Optimization Platform (PPOP)</b></summary>
+<summary><b><a href="https://github.com/Faheemsm16/personalized-prophylaxis-optimization-platform">Predicted Prophylaxis Optimization Platform (PPOP)</a></b></summary>
 
 ### AI-Powered Clinical Decision Support Platform
 
@@ -133,7 +133,7 @@ The system generates patient-specific prophylaxis recommendations while balancin
 </details>
 
 <details>
-<summary><b>Decoding Emotions in Literature</b></summary>
+<summary><b><a href="https://github.com/Faheemsm16/Emotion-Detection-in-Literature">Decoding Emotions in Literature</a></b></summary>
 
 ### Transformer-Based Emotion Intelligence System
 
@@ -153,7 +153,7 @@ The system visualizes emotional progression through heatmaps and emotion-flow an
 </details>
 
 <details>
-<summary><b>CryptoCom Secure Messaging Platform</b></summary>
+<summary><b><a href="https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption">CryptoCom Secure Messaging Platform</a></b></summary>
 
 ### End-to-End Encrypted Android Communication System
 
@@ -173,8 +173,8 @@ Presented at an international conference focusing on lightweight cryptographic e
 </details>
 
 <details>
-<summary><b>Zero-Day Attack Detection using Deep Neural Optimization & XAI</b></summary>
-
+<summary><b><a href="https://github.com/Faheemsm16/Zero-Day-Attack-Detection-with-Deep-Neural-Optimization">Zero-Day Attack Detection using Deep Neural Optimization &amp; XAI</a></b></summary>
+  
 ### Explainable Cybersecurity Intelligence Platform
 
 | Metric | Value |
@@ -336,7 +336,7 @@ Focused on transforming business datasets into meaningful visual insights and ex
 <img src="https://img.shields.io/badge/GitHub-Faheemsm16-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio.com">
+<a href="https://smmf-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit-4338CA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
